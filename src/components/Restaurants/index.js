@@ -1,0 +1,5 @@
+export * from "./Header"
+export * from "./Info"
+export * from "./Reviews"
+export * from "./BtnReviewForm"
+export * from "./BtnFavorite"
