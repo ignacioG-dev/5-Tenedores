@@ -14,7 +14,7 @@
 > [!WARNING]\
 > **5-Tenedores** es una aplicación diseñada exclusivamente para dispositivos Android y no es compatible con iOS. Debido a las diferencias en las tecnologías utilizadas, la aplicación solo está disponible en la plataforma Android.
 
-`FireBase`: Para la autenticación de usuarios, almacenamiento de datos y notificaciones en tiempo real.
+`FireBase`: Para la autenticación de usuarios y almacenamiento de datos.
 ## Despliegue
 
 To deploy this project run
